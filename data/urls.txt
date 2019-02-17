@@ -1,4 +1,6 @@
+## https://github.com/fengari-lua/fengari [] 🐺 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser https://fengari.io/
 ## https://github.com/HBM/jet []
+## https://github.com/logiceditor-com/codebase []
 ## https://github.com/snabbco/snabb []
 ## https://github.com/Wiladams/LAPHLibs []
 ## https://github.com/Wiladams/TINN []
@@ -6,10 +8,18 @@
 ## https://github.com/winton/nginx-accelerator []
 ## https://github.com/xopxe/Toribio []
 ## https://github.com/zdevito/terra []
+https://github.com/andrewmcwatters/lclass [oop]
+https://github.com/bakpakin/tiny-ecs [] ECS for Lua http://bakpakin.github.io/tiny-ecs/doc/
+https://github.com/bluebird75/luaunit []LuaUnit is a popular unit-testing framework for Lua
 https://github.com/catwell/luajit-msgpack-pure []
 https://github.com/craigbarnes/lua-discount []
+https://github.com/daurnimator/lua-http [] HTTP Library for Lua. Supports HTTP(S) 1.0, 1.1 and 2.0; client and server. https://daurnimator.github.io/lua-http/
+https://github.com/daurnimator/luatz [] Time, Date and Timezone library for lua
+https://github.com/davisdude/mlib [] A math and collisions library for Lua.
+https://github.com/dibyendumajumdar/ravi [] Ravi Programming Language is a derivative of Lua 5.3 with limited optional static typing and features LLVM and Eclipse OMR powered JIT compilers
 https://github.com/EmergingThreats/et-luajit-scripts []
 https://github.com/ennorehling/euler []
+https://github.com/ers35/luastatic [] Build a standalone executable from a Lua program.
 https://github.com/Fizzadar/Luawa []
 https://github.com/Fizzadar/yummymarks []
 https://github.com/geoffleyland/luatrace
@@ -18,19 +28,22 @@ https://github.com/hnakamur/luajit-examples []
 https://github.com/justincormack/ljsyscall []
 https://github.com/keplerproject/copas []
 https://github.com/keplerproject/coxpcall []
+https://github.com/keplerproject/lua-compat-5.3 [] Compatibility module providing Lua-5.3-style APIs for Lua 5.2 and 5.1
 https://github.com/keplerproject/luadoc []
 https://github.com/keplerproject/orbit []
 https://github.com/keplerproject/xavante []
+https://github.com/kernelsauce/turbo [] Turbo is a framework built for LuaJIT 2 to simplify the task of building fast and scalable network applications
 https://github.com/kikito/i18n.lua []
 https://github.com/kikito/inspect.lua []
 https://github.com/kikito/lua_missions []
-https://github.com/kikito/middleclass []
-https://github.com/kikito/stateful.lua []
+https://github.com/kikito/middleclass [oop]
+https://github.com/kikito/stateful.lua [oop]
+https://github.com/kurapica/PLoop [] Prototype Lua object-oriented program system, with many modern features like attribute, overload, etc
 https://github.com/leafo/lapis []
 https://github.com/lipp/lua-websockets []
 https://github.com/lipp/zbus []
-https://github.com/logiceditor-com/codebase []
 https://github.com/logiceditor-com/luamarca []
+https://github.com/lovetoys/lovetoys [] 🍌 a full-featured Entity-Component-System framework for making games with lua
 https://github.com/lua-aplicado/lua-aplicado []
 https://github.com/lua-cookbook/lua-cookbook []
 https://github.com/lua-nucleo/lua-nucleo []
@@ -42,7 +55,9 @@ https://github.com/luarocks/luarocks []
 https://github.com/martin-damien/babel []
 https://github.com/mascarenhas/luma []
 https://github.com/meric/l2l []
+https://github.com/mindreframer/lua-course-backup-files [] http://www.dcc.ufrj.br/~fabiom/lua/ (PDFs and Code)
 https://github.com/mindreframer/ProFi.lua []
+https://github.com/mpeterv/luacheck [] A tool for linting and static analysis of Lua code.
 https://github.com/nanomsg/luajit-nanomsg []
 https://github.com/neomantra/lds []
 https://github.com/Neopallium/lua-handlers []
@@ -50,9 +65,12 @@ https://github.com/norman/lua-postgres []
 https://github.com/norman/telescope []
 https://github.com/Olivine-Labs/luassert []
 https://github.com/Olivine-Labs/lustache []
+https://github.com/PaulBernier/castl [] JavaScript to Lua compiler with runtime library.
 https://github.com/pavouk/lgi []
 https://github.com/perky/FEZ []
+https://github.com/Perryvw/TypescriptToLua [] Typescript to lua transpiler. https://typescripttolua.github.io/ A generic TypeScript to Lua transpiler. Write your code in TypeScript and publish Lua!
 https://github.com/pkulchenko/serpent []
+https://github.com/pkulchenko/ZeroBraneEduPack []
 https://github.com/rgieseke/locco []
 https://github.com/seomoz/qless-core []
 https://github.com/silentbicycle/lunatest []
@@ -66,9 +84,12 @@ https://github.com/stevedonovan/LuaMacro []
 https://github.com/stevedonovan/Microlight []
 https://github.com/stevedonovan/Orbiter []
 https://github.com/stevedonovan/Penlight []
+https://github.com/Tencent/TscanCode [] A static code analyzer for C++, C#, Lua
 https://github.com/timn/roslua []
 https://github.com/trevrosen/lua-presentation []
+https://github.com/trixnz/lua-fmt [] lua-fmt is pretty-printer for Lua code
 https://github.com/webscriptio/lib []
+https://github.com/xpol/lua-rapidjson [] A JSON module for Lua based on the very fast RapidJSON library.
 https://github.com/Yonaba/30log []
 https://github.com/Yonaba/Allen []
 https://github.com/Yonaba/Lua-Class-System []
