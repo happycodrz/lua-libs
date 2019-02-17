@@ -40,7 +40,7 @@ defmodule Updater.ReadmeHandler do
   end
 
   def replace_projects(projects, content) do
-    projects = Enum.sort_by(projects, fn x -> x.repo end)
+    projects = Enum.sort_by(projects, fn x -> x.repo |> String.downcase() end)
     pattern = Regex.compile!("(?s)<!-- PROJECTS_LIST -->(.*)<!-- /PROJECTS_LIST -->")
     regexStart = "<!-- PROJECTS_LIST -->"
     regexEnd = "<!-- /PROJECTS_LIST -->"
