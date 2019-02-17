@@ -20,11 +20,14 @@ https://github.com/dibyendumajumdar/ravi [] Ravi Programming Language is a deriv
 https://github.com/EmergingThreats/et-luajit-scripts []
 https://github.com/ennorehling/euler []
 https://github.com/ers35/luastatic [] Build a standalone executable from a Lua program.
+https://github.com/EvandroLG/array.lua [] A small library with useful methods to handle Lua's table when it's working like an Array
 https://github.com/Fizzadar/Luawa []
 https://github.com/Fizzadar/yummymarks []
 https://github.com/geoffleyland/luatrace
 https://github.com/GloryFish/love2d-verlet-cloth []
+https://github.com/hengestone/lua-languages [] Languages that compile to Lua
 https://github.com/hnakamur/luajit-examples []
+https://github.com/IUdalov/u-test [] Sane and simple unit testing framework for Lua
 https://github.com/justincormack/ljsyscall []
 https://github.com/keplerproject/copas []
 https://github.com/keplerproject/coxpcall []
@@ -54,6 +57,7 @@ https://github.com/luafun/luafun []
 https://github.com/luarocks/luarocks []
 https://github.com/martin-damien/babel []
 https://github.com/mascarenhas/luma []
+https://github.com/mebens/ammo [] A simple, flexible organisational library for use with the LÖVE game engine.
 https://github.com/meric/l2l []
 https://github.com/mindreframer/lua-course-backup-files [] http://www.dcc.ufrj.br/~fabiom/lua/ (PDFs and Code)
 https://github.com/mindreframer/ProFi.lua []
@@ -72,11 +76,14 @@ https://github.com/Perryvw/TypescriptToLua [] Typescript to lua transpiler. http
 https://github.com/pkulchenko/serpent []
 https://github.com/pkulchenko/ZeroBraneEduPack []
 https://github.com/rgieseke/locco []
+https://github.com/rxi/classic/ [] Tiny class module for Lua
 https://github.com/seomoz/qless-core []
+https://github.com/siffiejoe/lua-amalg [] Amalgamation of Lua modules/scripts
 https://github.com/silentbicycle/lunatest []
 https://github.com/silentbicycle/tamale []
 https://github.com/slembcke/debugger.lua []
 https://github.com/sroccaserra/object-lua []
+https://github.com/starwing/luaiter [] A iteration library for Lua /  uaiter is a rewritten version of luafun: a high-performance functional programming library for Lua designed with LuaJIT's
 https://github.com/statianzo/lua_euler []
 https://github.com/stevedonovan/ldeb []
 https://github.com/stevedonovan/luaish []
@@ -89,6 +96,7 @@ https://github.com/timn/roslua []
 https://github.com/trevrosen/lua-presentation []
 https://github.com/trixnz/lua-fmt [] lua-fmt is pretty-printer for Lua code
 https://github.com/webscriptio/lib []
+https://github.com/woshihuo12/LuaDesignPattern [] lua design pattern example code
 https://github.com/xpol/lua-rapidjson [] A JSON module for Lua based on the very fast RapidJSON library.
 https://github.com/Yonaba/30log []
 https://github.com/Yonaba/Allen []
