@@ -39,6 +39,7 @@ https://github.com/GloryFish/love2d-verlet-cloth []
 https://github.com/golgote/neturl [] URL and Query string parser, builder, normalizer for Lua
 https://github.com/hengestone/lua-languages [] Languages that compile to Lua
 https://github.com/hnakamur/luajit-examples []
+https://github.com/ignacio/StackTracePlus [] StackTracePlus provides enhanced stack traces for Lua.
 https://github.com/IUdalov/u-test [] Sane and simple unit testing framework for Lua
 https://github.com/justincormack/ljsyscall []
 https://github.com/kennyledet/Algorithm-Implementations [] Share, discuss and learn about algorithm implementations! http://algorithm.zone
@@ -113,6 +114,7 @@ https://github.com/siffiejoe/lua-testy [] Easy unit testing for Lua modules
 https://github.com/silentbicycle/lunatest [] xUnit-style + randomized unit testing framework for Lua (and C projects using Lua, etc.)
 https://github.com/silentbicycle/tamale [] TAble MAtching Lua Extension - An Erlang-style pattern-matching library for Lua
 https://github.com/slembcke/debugger.lua [codequality] A simple, embedabble CLI debugger for Lua.
+https://github.com/sniper00/entitas-lua [] Entitas ECS implementation in Lua.
 https://github.com/sroccaserra/object-lua [] A class-oriented OOP module for Lua http://lua-users.org/wiki/ObjectLua
 https://github.com/starwing/luaiter [] A iteration library for Lua /  uaiter is a rewritten version of luafun: a high-performance functional programming library for Lua designed with LuaJIT's
 https://github.com/starwing/luautf8 [] a utf-8 support module for Lua and LuaJIT.
@@ -128,6 +130,7 @@ https://github.com/stevedonovan/Penlight [] A set of pure Lua libraries focusing
 https://github.com/tarantool/checks [] Easy, terse, readable and fast function arguments type checking
 https://github.com/tarantool/lua-jsonpath [] Query Lua data structures with JsonPath expressions. Robust and safe JsonPath engine for Lua.
 https://github.com/Tencent/TscanCode [] A static code analyzer for C++, C#, Lua
+https://github.com/Tieske/date []  Date & Time module for Lua 5.x http://tieske.github.io/date/
 https://github.com/timn/roslua [] ROS Client Library for Lua http://timn.github.com/roslua
 https://github.com/trevrosen/lua-presentation [] A presentation on Lua originally created for Austin.rb
 https://github.com/trixnz/lua-fmt [] lua-fmt is pretty-printer for Lua code
