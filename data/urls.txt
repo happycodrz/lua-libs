@@ -9,6 +9,7 @@
 ## https://github.com/xopxe/Toribio []
 ## https://github.com/zdevito/terra []
 https://github.com/aiq/luazdf [] LuaZDF - Lua Zero Dependency Functions
+https://github.com/airstruck/knife [] A collection of useful micro-modules for Lua.
 https://github.com/andrewmcwatters/lclass [oop]
 https://github.com/bakpakin/tiny-ecs [] ECS for Lua http://bakpakin.github.io/tiny-ecs/doc/
 https://github.com/bluebird75/luaunit []LuaUnit is a popular unit-testing framework for Lua
@@ -18,7 +19,6 @@ https://github.com/Cherrruuu/Roblox-Entity-Component-System [] A Entity-Componen
 https://github.com/Cherrruuu/Roblox-Entity-Component-System [] A Entity-Component-System for Roblox
 https://github.com/craigbarnes/lua-discount []
 https://github.com/DarkRoku12/lua_sort [] https://github.com/DarkRoku12/lua_sort
-https://github.com/daurnimator/lua-http [] HTTP Library for Lua. Supports HTTP(S) 1.0, 1.1 and 2.0; client and server. https://daurnimator.github.io/lua-http/
 https://github.com/daurnimator/lua-http [] HTTP Library for Lua. Supports HTTP(S) 1.0, 1.1 and 2.0; client and server. https://daurnimator.github.io/lua-http/
 https://github.com/daurnimator/luatz [] Time, Date and Timezone library for lua
 https://github.com/davisdude/mlib [] A math and collisions library for Lua.
@@ -30,12 +30,14 @@ https://github.com/ennorehling/euler []
 https://github.com/ers35/luastatic [] Build a standalone executable from a Lua program.
 https://github.com/EvandroLG/array.lua [] A small library with useful methods to handle Lua's table when it's working like an Array
 https://github.com/EvandroLG/computer_science_in_lua [] 🌛 Implementation of some classic data structures and algorithms in Lua
+https://github.com/exercism/lua [] Exercism exercises in Lua. http://exercism.io/languages/lua
 https://github.com/explosivegaming/scenario [] Factorio scenario https://explosivegaming.nl
 https://github.com/Fizzadar/Luawa []
 https://github.com/Fizzadar/yummymarks []
 https://github.com/FourierTransformer/lua-complete [ast, codeutil] A Lua code completer
 https://github.com/geoffleyland/luatrace
 https://github.com/GloryFish/love2d-verlet-cloth []
+https://github.com/golgote/neturl [] URL and Query string parser, builder, normalizer for Lua
 https://github.com/hengestone/lua-languages [] Languages that compile to Lua
 https://github.com/hnakamur/luajit-examples []
 https://github.com/IUdalov/u-test [] Sane and simple unit testing framework for Lua
@@ -54,7 +56,10 @@ https://github.com/kikito/lua_missions []
 https://github.com/kikito/middleclass [oop]
 https://github.com/kikito/stateful.lua [oop]
 https://github.com/kurapica/PLoop [] Prototype Lua object-oriented program system, with many modern features like attribute, overload, etc
+https://github.com/kyleconroy/lua-state-machine [] A finite state machine lua micro framework
+https://github.com/leafo/etlua [] Embedded Lua templates
 https://github.com/leafo/lapis []
+https://github.com/leegao/LuaInLua [] A self-hosting compiler for the Lua language.
 https://github.com/lipp/lua-websockets []
 https://github.com/lipp/zbus []
 https://github.com/logiceditor-com/luamarca []
@@ -67,6 +72,7 @@ https://github.com/LuaDist/srlua []
 https://github.com/luaforge/simulua []
 https://github.com/luafun/luafun []
 https://github.com/luarocks/luarocks []
+https://github.com/mailru/tntlua [] Tarantool 1.5 Lua stored procedures http://tarantool.org
 https://github.com/martin-damien/babel []
 https://github.com/martin-eden/lua_code_formatter [ast, codeutil] Reformats any valid Lua 5.3 source code.
 https://github.com/martin-eden/workshop [] This is not a "library"! This is just a pile of code chunks. It is not like Steve Donovan's PenLight.
@@ -76,6 +82,7 @@ https://github.com/mebens/strong [] A Lua library that makes your strings strong
 https://github.com/meric/l2l []
 https://github.com/mindreframer/lua-course-backup-files [] http://www.dcc.ufrj.br/~fabiom/lua/ (PDFs and Code)
 https://github.com/mindreframer/ProFi.lua []
+https://github.com/mirven/underscore.lua [] A utility library for Lua http://mirven.github.com/underscore.lua/
 https://github.com/moonlibs/bin [] Lua library for packing and unpacking binary data
 https://github.com/mpeterv/luacheck [] A tool for linting and static analysis of Lua code.
 https://github.com/nanomsg/luajit-nanomsg []
@@ -83,6 +90,7 @@ https://github.com/neomantra/lds []
 https://github.com/Neopallium/lua-handlers []
 https://github.com/norman/lua-postgres []
 https://github.com/norman/telescope []
+https://github.com/norman/telescope [] A highly customizable test library for Lua that allows declarative tests with nested contexts. http://norman.github.com/telescope/
 https://github.com/Nymphium/eff.lua [] ONE-SHOT Algebraic Effects for Lua!
 https://github.com/Olivine-Labs/luassert []
 https://github.com/Olivine-Labs/lustache []
@@ -93,27 +101,36 @@ https://github.com/perky/FEZ []
 https://github.com/Perryvw/TypescriptToLua [] Typescript to lua transpiler. https://typescripttolua.github.io/ A generic TypeScript to Lua transpiler. Write your code in TypeScript and publish Lua!
 https://github.com/pkulchenko/serpent []
 https://github.com/pkulchenko/ZeroBraneEduPack []
+https://github.com/pkulchenko/ZeroBraneEduPack [] A collection of simple lessons, scripts, and demos in Lua, suitable for learning programming concepts.
+https://github.com/pkulchenko/ZeroBranePackage [] Packages for ZeroBrane Studio (https://studio.zerobrane.com)
 https://github.com/rgieseke/locco []
 https://github.com/rgieseke/textredux [] Text-based interfaces for Textadept http://rgieseke.github.io/textredux/
+https://github.com/richardhundt/shine [] A Shiny Lua Dialect
 https://github.com/rob-miller/rFold [] a set of classes and submodules to build, manipulate and analyse three-dimensional protein structures.
 https://github.com/rxi/classic/ [] Tiny class module for Lua
+https://github.com/sailorproject/valua [] Validation for lua! A module for making chained validations. Create your objects, append your tests, use and reuse it!
 https://github.com/seomoz/qless-core []
 https://github.com/shakna-israel/f.lua [] A functional Lua extension library. https://shakna-israel.github.io/f.lua
 https://github.com/siffiejoe/lua-amalg [] Amalgamation of Lua modules/scripts
 https://github.com/siffiejoe/lua-testy [] Easy unit testing for Lua modules
 https://github.com/silentbicycle/lunatest []
 https://github.com/silentbicycle/tamale []
+https://github.com/silentbicycle/tamale [] TAble MAtching Lua Extension - An Erlang-style pattern-matching library for Lua
 https://github.com/slembcke/debugger.lua []
 https://github.com/sroccaserra/object-lua []
 https://github.com/starwing/luaiter [] A iteration library for Lua /  uaiter is a rewritten version of luafun: a high-performance functional programming library for Lua designed with LuaJIT's
 https://github.com/starwing/luautf8 [] a utf-8 support module for Lua and LuaJIT.
 https://github.com/statianzo/lua_euler []
+https://github.com/Stepets/planoir [] вычисление выражений
+https://github.com/Stepets/utf8.lua [] one-file pure-lua 5.1 regex library
 https://github.com/stevedonovan/ldeb []
 https://github.com/stevedonovan/luaish []
 https://github.com/stevedonovan/LuaMacro []
 https://github.com/stevedonovan/Microlight []
 https://github.com/stevedonovan/Orbiter []
 https://github.com/stevedonovan/Penlight []
+https://github.com/tarantool/checks [] Easy, terse, readable and fast function arguments type checking
+https://github.com/tarantool/lua-jsonpath [] Query Lua data structures with JsonPath expressions. Robust and safe JsonPath engine for Lua.
 https://github.com/Tencent/TscanCode [] A static code analyzer for C++, C#, Lua
 https://github.com/timn/roslua []
 https://github.com/trevrosen/lua-presentation []
