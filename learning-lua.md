@@ -6,6 +6,16 @@
 - http://www.inf.puc-rio.br/~roberto/talks/index.html
 - https://www.reddit.com/r/lua/
 
+
+
+
+- https://www.lua.org/manual/5.1/manual.html#5.1
+- https://docs.coronalabs.com/guide/programming/04/index.html
+- https://www.defold.com/manuals/lua/
+
+## Videos
+- https://www.youtube.com/watch?v=iMacxZQMPXs - Lua Tutorial (1h)
+
 ## Newsletter
 - https://luadigest.immortalin.com/
 
