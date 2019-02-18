@@ -19,6 +19,7 @@ https://github.com/Cherrruuu/Roblox-Entity-Component-System [] A Entity-Componen
 https://github.com/craigbarnes/lua-discount []
 https://github.com/DarkRoku12/lua_sort [] https://github.com/DarkRoku12/lua_sort
 https://github.com/daurnimator/lua-http [] HTTP Library for Lua. Supports HTTP(S) 1.0, 1.1 and 2.0; client and server. https://daurnimator.github.io/lua-http/
+https://github.com/daurnimator/lua-http [] HTTP Library for Lua. Supports HTTP(S) 1.0, 1.1 and 2.0; client and server. https://daurnimator.github.io/lua-http/
 https://github.com/daurnimator/luatz [] Time, Date and Timezone library for lua
 https://github.com/davisdude/mlib [] A math and collisions library for Lua.
 https://github.com/dibyendumajumdar/ravi [] Ravi Programming Language is a derivative of Lua 5.3 with limited optional static typing and features LLVM and Eclipse OMR powered JIT compilers
@@ -97,6 +98,7 @@ https://github.com/rgieseke/textredux [] Text-based interfaces for Textadept htt
 https://github.com/rob-miller/rFold [] a set of classes and submodules to build, manipulate and analyse three-dimensional protein structures.
 https://github.com/rxi/classic/ [] Tiny class module for Lua
 https://github.com/seomoz/qless-core []
+https://github.com/shakna-israel/f.lua [] A functional Lua extension library. https://shakna-israel.github.io/f.lua
 https://github.com/siffiejoe/lua-amalg [] Amalgamation of Lua modules/scripts
 https://github.com/siffiejoe/lua-testy [] Easy unit testing for Lua modules
 https://github.com/silentbicycle/lunatest []
@@ -104,6 +106,7 @@ https://github.com/silentbicycle/tamale []
 https://github.com/slembcke/debugger.lua []
 https://github.com/sroccaserra/object-lua []
 https://github.com/starwing/luaiter [] A iteration library for Lua /  uaiter is a rewritten version of luafun: a high-performance functional programming library for Lua designed with LuaJIT's
+https://github.com/starwing/luautf8 [] a utf-8 support module for Lua and LuaJIT.
 https://github.com/statianzo/lua_euler []
 https://github.com/stevedonovan/ldeb []
 https://github.com/stevedonovan/luaish []
