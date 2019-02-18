@@ -11,6 +11,7 @@
 https://github.com/aiq/luazdf [] LuaZDF - Lua Zero Dependency Functions
 https://github.com/airstruck/knife [] A collection of useful micro-modules for Lua.
 https://github.com/andrewmcwatters/lclass [oop]
+https://github.com/APItools/sandbox.lua []
 https://github.com/bakpakin/tiny-ecs [] ECS for Lua http://bakpakin.github.io/tiny-ecs/doc/
 https://github.com/bluebird75/luaunit []LuaUnit is a popular unit-testing framework for Lua
 https://github.com/catwell/luajit-msgpack-pure []
@@ -37,6 +38,7 @@ https://github.com/FourierTransformer/lua-complete [ast, codeutil] A Lua code co
 https://github.com/geoffleyland/luatrace
 https://github.com/GloryFish/love2d-verlet-cloth []
 https://github.com/golgote/neturl [] URL and Query string parser, builder, normalizer for Lua
+https://github.com/gvx/bitser [] Serializes and deserializes Lua values with LuaJIT
 https://github.com/hengestone/lua-languages [] Languages that compile to Lua
 https://github.com/hnakamur/luajit-examples []
 https://github.com/ignacio/StackTracePlus [] StackTracePlus provides enhanced stack traces for Lua.
@@ -60,9 +62,11 @@ https://github.com/kyleconroy/lua-state-machine [] A finite state machine lua mi
 https://github.com/leafo/etlua [] Embedded Lua templates
 https://github.com/leafo/lapis []
 https://github.com/leegao/LuaInLua [] A self-hosting compiler for the Lua language.
+https://github.com/leegao/see.lua [] A Lua 5.x/LuaJIT introspection library for humans
 https://github.com/lipp/lua-websockets []
 https://github.com/lipp/zbus []
 https://github.com/logiceditor-com/luamarca []
+https://github.com/love2d-community/love-api []
 https://github.com/lovetoys/lovetoys [] 🍌 a full-featured Entity-Component-System framework for making games with lua
 https://github.com/lua-aplicado/lua-aplicado []
 https://github.com/lua-cookbook/lua-cookbook []
