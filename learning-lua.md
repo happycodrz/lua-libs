@@ -11,6 +11,9 @@
 
 ## Books
 - https://www.oreilly.com/library/view/creating-solid-apis/9781491986301
+- https://www.oreilly.com/library/view/creating-solid-apis/9781491986301/ch04.html
+- https://github.com/tylerneylon/APIsWithLua
+- https://web.stanford.edu/class/ee380/Abstracts/100310-slides.pdf  - Small is Beautiful: the design of Lua
 
 
 
