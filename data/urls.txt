@@ -16,7 +16,6 @@ https://github.com/bluebird75/luaunit []LuaUnit is a popular unit-testing framew
 https://github.com/catwell/luajit-msgpack-pure []
 https://github.com/ceu-lang/ceu [] The Programming Language Céu http://www.ceu-lang.org/
 https://github.com/Cherrruuu/Roblox-Entity-Component-System [] A Entity-Component-System for Roblox
-https://github.com/Cherrruuu/Roblox-Entity-Component-System [] A Entity-Component-System for Roblox
 https://github.com/craigbarnes/lua-discount []
 https://github.com/DarkRoku12/lua_sort [] https://github.com/DarkRoku12/lua_sort
 https://github.com/daurnimator/lua-http [] HTTP Library for Lua. Supports HTTP(S) 1.0, 1.1 and 2.0; client and server. https://daurnimator.github.io/lua-http/
@@ -89,7 +88,6 @@ https://github.com/nanomsg/luajit-nanomsg []
 https://github.com/neomantra/lds []
 https://github.com/Neopallium/lua-handlers []
 https://github.com/norman/lua-postgres []
-https://github.com/norman/telescope []
 https://github.com/norman/telescope [] A highly customizable test library for Lua that allows declarative tests with nested contexts. http://norman.github.com/telescope/
 https://github.com/Nymphium/eff.lua [] ONE-SHOT Algebraic Effects for Lua!
 https://github.com/Olivine-Labs/luassert []
@@ -100,7 +98,6 @@ https://github.com/pavouk/lgi []
 https://github.com/perky/FEZ []
 https://github.com/Perryvw/TypescriptToLua [] Typescript to lua transpiler. https://typescripttolua.github.io/ A generic TypeScript to Lua transpiler. Write your code in TypeScript and publish Lua!
 https://github.com/pkulchenko/serpent []
-https://github.com/pkulchenko/ZeroBraneEduPack []
 https://github.com/pkulchenko/ZeroBraneEduPack [] A collection of simple lessons, scripts, and demos in Lua, suitable for learning programming concepts.
 https://github.com/pkulchenko/ZeroBranePackage [] Packages for ZeroBrane Studio (https://studio.zerobrane.com)
 https://github.com/rgieseke/locco []
@@ -114,7 +111,6 @@ https://github.com/shakna-israel/f.lua [] A functional Lua extension library. ht
 https://github.com/siffiejoe/lua-amalg [] Amalgamation of Lua modules/scripts
 https://github.com/siffiejoe/lua-testy [] Easy unit testing for Lua modules
 https://github.com/silentbicycle/lunatest []
-https://github.com/silentbicycle/tamale []
 https://github.com/silentbicycle/tamale [] TAble MAtching Lua Extension - An Erlang-style pattern-matching library for Lua
 https://github.com/slembcke/debugger.lua []
 https://github.com/sroccaserra/object-lua []
