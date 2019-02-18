@@ -2,6 +2,7 @@
 - https://forum.defold.com/t/big-list-of-lua-resources/1586/9 - Big List of Lua Resources!
 - https://studio.zerobrane.com/doc-lua-debugging
 - http://lua-users.org/wiki/LuaDesignPatterns
+- https://project-awesome.org/LewisJEllis/awesome-lua
 
 ## Newsletter
 - https://luadigest.immortalin.com/
@@ -21,11 +22,20 @@
 - https://www.lua.org/wshop17/fengari.html + https://www.youtube.com/watch?v=xrLIgmd8xik
 
 
+- http://moonshinejs.org/editor/
+
+
 - https://www.oreilly.com/learning/learn-lua-from-javascript-part-1-an-introduction-to-lua
 - https://www.oreilly.com/learning/learn-lua-from-javascript-part-2-control-flow-and-data-structures
 - https://www.oreilly.com/learning/learn-lua-from-javascript-part-3-object-oriented-behavior
 
 
+
+
+## Testing
+- https://www.youtube.com/watch?v=upVdq5i6LDY - Unit Testing in Lua via Busted
+- https://www.youtube.com/watch?v=4-WHONSzKuc - Next Generation of the LuaRocks test suite
+- https://thejacklawson.com/2013/06/lua-unit-testing-with-busted/index.html
 
 ## concurrency
 - https://wingolog.org/archives/2018/05/16/lightweight-concurrency-in-lua
