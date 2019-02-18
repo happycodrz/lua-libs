@@ -100,7 +100,6 @@ https://github.com/Perryvw/TypescriptToLua [] Typescript to lua transpiler. http
 https://github.com/pkulchenko/serpent [] Lua serializer and pretty printer.
 https://github.com/pkulchenko/ZeroBraneEduPack [] A collection of simple lessons, scripts, and demos in Lua, suitable for learning programming concepts.
 https://github.com/pkulchenko/ZeroBranePackage [] Packages for ZeroBrane Studio (https://studio.zerobrane.com)
-https://github.com/pkulchenko/ZeroBraneStudio [] lua editor
 https://github.com/rgieseke/locco [] Locco is Docco in Lua. http://rgieseke.github.com/locco/
 https://github.com/rgieseke/textredux [] Text-based interfaces for Textadept http://rgieseke.github.io/textredux/
 https://github.com/richardhundt/shine [] A Shiny Lua Dialect
