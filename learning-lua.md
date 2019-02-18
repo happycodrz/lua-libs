@@ -3,12 +3,15 @@
 - https://studio.zerobrane.com/doc-lua-debugging
 - http://lua-users.org/wiki/LuaDesignPatterns
 - https://project-awesome.org/LewisJEllis/awesome-lua
+- http://www.inf.puc-rio.br/~roberto/talks/index.html
+- https://www.reddit.com/r/lua/
 
 ## Newsletter
 - https://luadigest.immortalin.com/
 
 
 ## Books
+- http://www.lua.org/pil/contents.html
 - https://www.oreilly.com/library/view/creating-solid-apis/9781491986301
 - https://www.oreilly.com/library/view/creating-solid-apis/9781491986301/ch04.html
 - https://github.com/tylerneylon/APIsWithLua
