@@ -7,16 +7,32 @@
 - https://luadigest.immortalin.com/
 
 
-
-
 ## Books
 - https://www.oreilly.com/library/view/creating-solid-apis/9781491986301
 - https://www.oreilly.com/library/view/creating-solid-apis/9781491986301/ch04.html
 - https://github.com/tylerneylon/APIsWithLua
 - https://web.stanford.edu/class/ee380/Abstracts/100310-slides.pdf  - Small is Beautiful: the design of Lua
+- https://turtleappstore.com/book/ - Learn to Code by Programming Robots in Minecraft!
 
 
 
-https://www.oreilly.com/learning/learn-lua-from-javascript-part-1-an-introduction-to-lua
-https://www.oreilly.com/learning/learn-lua-from-javascript-part-2-control-flow-and-data-structures
-https://www.oreilly.com/learning/learn-lua-from-javascript-part-3-object-oriented-behavior
+## Lua in browser
+- https://fengari.io/ + https://hackernoon.com/why-we-rewrote-lua-in-js-a66529a8278d
+- https://www.lua.org/wshop17/fengari.html + https://www.youtube.com/watch?v=xrLIgmd8xik
+
+
+- https://www.oreilly.com/learning/learn-lua-from-javascript-part-1-an-introduction-to-lua
+- https://www.oreilly.com/learning/learn-lua-from-javascript-part-2-control-flow-and-data-structures
+- https://www.oreilly.com/learning/learn-lua-from-javascript-part-3-object-oriented-behavior
+
+
+
+## concurrency
+- https://wingolog.org/archives/2018/05/16/lightweight-concurrency-in-lua
+- http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/
+- https://www.youtube.com/watch?v=lRPMrWt-ojw Lua Workshop 2017: Lua's coroutines: The secret sauce in NSE - Patrick Donnelly (Red Hat, Inc.)
+
+
+
+## Dependencies manager
+-  https://www.lua.org/wshop18/Muhammad.pdf New features in LuaRocks 3
