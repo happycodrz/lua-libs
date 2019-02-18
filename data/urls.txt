@@ -8,27 +8,38 @@
 ## https://github.com/winton/nginx-accelerator []
 ## https://github.com/xopxe/Toribio []
 ## https://github.com/zdevito/terra []
+https://github.com/aiq/luazdf [] LuaZDF - Lua Zero Dependency Functions
 https://github.com/andrewmcwatters/lclass [oop]
 https://github.com/bakpakin/tiny-ecs [] ECS for Lua http://bakpakin.github.io/tiny-ecs/doc/
 https://github.com/bluebird75/luaunit []LuaUnit is a popular unit-testing framework for Lua
 https://github.com/catwell/luajit-msgpack-pure []
+https://github.com/ceu-lang/ceu [] The Programming Language Céu http://www.ceu-lang.org/
+https://github.com/Cherrruuu/Roblox-Entity-Component-System [] A Entity-Component-System for Roblox
+https://github.com/Cherrruuu/Roblox-Entity-Component-System [] A Entity-Component-System for Roblox
 https://github.com/craigbarnes/lua-discount []
+https://github.com/DarkRoku12/lua_sort [] https://github.com/DarkRoku12/lua_sort
 https://github.com/daurnimator/lua-http [] HTTP Library for Lua. Supports HTTP(S) 1.0, 1.1 and 2.0; client and server. https://daurnimator.github.io/lua-http/
 https://github.com/daurnimator/luatz [] Time, Date and Timezone library for lua
 https://github.com/davisdude/mlib [] A math and collisions library for Lua.
 https://github.com/dibyendumajumdar/ravi [] Ravi Programming Language is a derivative of Lua 5.3 with limited optional static typing and features LLVM and Eclipse OMR powered JIT compilers
 https://github.com/EmergingThreats/et-luajit-scripts []
+https://github.com/emilk/sol [] Lua + Typesafety = Sol
+https://github.com/Enfernuz/quik-lua-rpc [] RPC-сервис для вызова API Lua-библиотеки торгового терминала QUIK (ARQA Technologies)
 https://github.com/ennorehling/euler []
 https://github.com/ers35/luastatic [] Build a standalone executable from a Lua program.
 https://github.com/EvandroLG/array.lua [] A small library with useful methods to handle Lua's table when it's working like an Array
+https://github.com/EvandroLG/computer_science_in_lua [] 🌛 Implementation of some classic data structures and algorithms in Lua
+https://github.com/explosivegaming/scenario [] Factorio scenario https://explosivegaming.nl
 https://github.com/Fizzadar/Luawa []
 https://github.com/Fizzadar/yummymarks []
+https://github.com/FourierTransformer/lua-complete [ast, codeutil] A Lua code completer
 https://github.com/geoffleyland/luatrace
 https://github.com/GloryFish/love2d-verlet-cloth []
 https://github.com/hengestone/lua-languages [] Languages that compile to Lua
 https://github.com/hnakamur/luajit-examples []
 https://github.com/IUdalov/u-test [] Sane and simple unit testing framework for Lua
 https://github.com/justincormack/ljsyscall []
+https://github.com/kennyledet/Algorithm-Implementations [] Share, discuss and learn about algorithm implementations! http://algorithm.zone
 https://github.com/keplerproject/copas []
 https://github.com/keplerproject/coxpcall []
 https://github.com/keplerproject/lua-compat-5.3 [] Compatibility module providing Lua-5.3-style APIs for Lua 5.2 and 5.1
@@ -56,19 +67,25 @@ https://github.com/luaforge/simulua []
 https://github.com/luafun/luafun []
 https://github.com/luarocks/luarocks []
 https://github.com/martin-damien/babel []
+https://github.com/martin-eden/lua_code_formatter [ast, codeutil] Reformats any valid Lua 5.3 source code.
+https://github.com/martin-eden/workshop [] This is not a "library"! This is just a pile of code chunks. It is not like Steve Donovan's PenLight.
 https://github.com/mascarenhas/luma []
 https://github.com/mebens/ammo [] A simple, flexible organisational library for use with the LÖVE game engine.
+https://github.com/mebens/strong [] A Lua library that makes your strings stronger!
 https://github.com/meric/l2l []
 https://github.com/mindreframer/lua-course-backup-files [] http://www.dcc.ufrj.br/~fabiom/lua/ (PDFs and Code)
 https://github.com/mindreframer/ProFi.lua []
+https://github.com/moonlibs/bin [] Lua library for packing and unpacking binary data
 https://github.com/mpeterv/luacheck [] A tool for linting and static analysis of Lua code.
 https://github.com/nanomsg/luajit-nanomsg []
 https://github.com/neomantra/lds []
 https://github.com/Neopallium/lua-handlers []
 https://github.com/norman/lua-postgres []
 https://github.com/norman/telescope []
+https://github.com/Nymphium/eff.lua [] ONE-SHOT Algebraic Effects for Lua!
 https://github.com/Olivine-Labs/luassert []
 https://github.com/Olivine-Labs/lustache []
+https://github.com/osyrisrblx/t [codeutil, codequality] A Runtime Typechecker for Roblox
 https://github.com/PaulBernier/castl [] JavaScript to Lua compiler with runtime library.
 https://github.com/pavouk/lgi []
 https://github.com/perky/FEZ []
@@ -76,9 +93,12 @@ https://github.com/Perryvw/TypescriptToLua [] Typescript to lua transpiler. http
 https://github.com/pkulchenko/serpent []
 https://github.com/pkulchenko/ZeroBraneEduPack []
 https://github.com/rgieseke/locco []
+https://github.com/rgieseke/textredux [] Text-based interfaces for Textadept http://rgieseke.github.io/textredux/
+https://github.com/rob-miller/rFold [] a set of classes and submodules to build, manipulate and analyse three-dimensional protein structures.
 https://github.com/rxi/classic/ [] Tiny class module for Lua
 https://github.com/seomoz/qless-core []
 https://github.com/siffiejoe/lua-amalg [] Amalgamation of Lua modules/scripts
+https://github.com/siffiejoe/lua-testy [] Easy unit testing for Lua modules
 https://github.com/silentbicycle/lunatest []
 https://github.com/silentbicycle/tamale []
 https://github.com/slembcke/debugger.lua []
@@ -95,6 +115,7 @@ https://github.com/Tencent/TscanCode [] A static code analyzer for C++, C#, Lua
 https://github.com/timn/roslua []
 https://github.com/trevrosen/lua-presentation []
 https://github.com/trixnz/lua-fmt [] lua-fmt is pretty-printer for Lua code
+https://github.com/user-none/lua-nums [] Pure Lua number library providing BigNum and fixed width unsigned integer type
 https://github.com/webscriptio/lib []
 https://github.com/woshihuo12/LuaDesignPattern [] lua design pattern example code
 https://github.com/xpol/lua-rapidjson [] A JSON module for Lua based on the very fast RapidJSON library.
@@ -102,3 +123,4 @@ https://github.com/Yonaba/30log []
 https://github.com/Yonaba/Allen []
 https://github.com/Yonaba/Lua-Class-System []
 https://github.com/Yonaba/Moses []
+https://github.com/zserge/lua-promises [] A+ promises in Lua https://zserge.com/lua-promises/
