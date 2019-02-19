@@ -85,6 +85,7 @@ https://github.com/mebens/ammo [] A simple, flexible organisational library for 
 https://github.com/mebens/strong [] A Lua library that makes your strings stronger!
 https://github.com/meric/l2l []
 https://github.com/mindreframer/lua-course-backup-files [] http://www.dcc.ufrj.br/~fabiom/lua/ (PDFs and Code)
+https://github.com/mindreframer/lua-quick-reference-sourcecode [] sourcecode for Lua - Quick Reference
 https://github.com/mindreframer/ProFi.lua []
 https://github.com/mirven/underscore.lua [] A utility library for Lua http://mirven.github.com/underscore.lua/
 https://github.com/moonlibs/bin [] Lua library for packing and unpacking binary data
