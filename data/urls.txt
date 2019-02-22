@@ -39,6 +39,7 @@ https://github.com/geoffleyland/luatrace
 https://github.com/GloryFish/love2d-verlet-cloth []
 https://github.com/golgote/neturl [] URL and Query string parser, builder, normalizer for Lua
 https://github.com/gvx/bitser [] Serializes and deserializes Lua values with LuaJIT
+https://github.com/helpermethod/lamda [] A functional programming library for Lua, inspired by Ramda.
 https://github.com/hengestone/lua-languages [] Languages that compile to Lua
 https://github.com/hnakamur/luajit-examples []
 https://github.com/ignacio/StackTracePlus [] StackTracePlus provides enhanced stack traces for Lua.
